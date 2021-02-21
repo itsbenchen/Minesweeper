@@ -14,4 +14,4 @@ It's a classic puzzle game where the goal is for the player to find all squares 
 
 You can simply compile the Minesweeper.cpp and an executable will be made to run. From there, you can the executable, choose your difficulty, and input the row and column to choose which cell you want reveal.
 
-<img src="./images/Minesweeper Console.jpg" alt="Minesweeper on the terminal console"/>
+<img src="/images/Minesweeper Console.jpg" alt="Minesweeper on the terminal console"/>
